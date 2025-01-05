@@ -56,7 +56,7 @@ To build on this success, future work could focus on:
 
 ## Dataset
 ```bash
-git clone https://github.com/Sourajit-Maity/juvdv2-vdvwc
+git clone https://github.com/Akshat12503/ICDEC-2024-Challenge-on-Vehicle-Detection-in-Various-Weather-Conditions.git
 ```
 
 ## Repository Structure
@@ -79,20 +79,6 @@ git clone https://github.com/Sourajit-Maity/juvdv2-vdvwc
 - vdvwc.yaml
 - README.md
 ```
-
-## Installation
-1. Clone the YOLOv5 repository:
-    ```bash
-    git clone https://github.com/ultralytics/yolov5.git
-    ```
-2. Navigate to the repository:
-    ```bash
-    cd yolov5
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 ### Training
